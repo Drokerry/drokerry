@@ -1,67 +1,35 @@
-# 👋 Olá, eu sou Lucas Fernandes
+# ⚡ Lucas Fernandes — Front-end Engineer
 
-🚀 Desenvolvedor Front-end focado em criar interfaces modernas, rápidas e escaláveis.
+Construindo experiências digitais modernas com **SvelteKit**, **TypeScript** e **TailwindCSS**.
 
-Atualmente trabalho com **SvelteKit**, **JavaScript/TypeScript** e **TailwindCSS**, desenvolvendo aplicações com alto padrão visual, performance e integração com APIs.
-
----
-
-## 🧠 Sobre mim
-
-Sou um desenvolvedor apaixonado por tecnologia e experiência do usuário, com foco em:
-
-- Interfaces elegantes e responsivas  
-- Componentização e design systems  
-- Performance e arquitetura front-end moderna  
-- Integração com APIs REST e serviços externos  
-- Aplicações web com qualidade de produto premium  
+Desenvolvo interfaces de alto padrão, focadas em performance, design sofisticado e arquitetura escalável.
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Expertise
 
-### Front-end
-- **SvelteKit**
-- **JavaScript (ES6+)**
-- **TypeScript**
-- **TailwindCSS**
-- HTML5 • CSS3 • UI Animations
-
-### Back-end / Integrações
-- Consumo de **APIs REST**
-- Auth (JWT, sessions)
-- Integração com serviços externos
-
-### Ferramentas
-- Git & GitHub
-- Vite
-- Figma (UI/UX workflow)
-- Deploy: Vercel / Netlify
+- Front-end moderno e componentizado  
+- Aplicações com SvelteKit e SSR  
+- UI premium com TailwindCSS  
+- Integração robusta com APIs  
+- Design responsivo e mobile-first  
+- Experiência de produto (UX/UI)
 
 ---
 
-## 💼 O que eu desenvolvo
+## 🛠 Tecnologias principais
 
-✅ Dashboards modernos  
-✅ Landing pages premium  
-✅ Sistemas web completos  
-✅ Aplicações escaláveis com SvelteKit  
-✅ Interfaces mobile-first com Tailwind  
-✅ Integração com APIs e autenticação  
+- SvelteKit • TypeScript • JavaScript  
+- TailwindCSS • Animations • UI Systems  
+- REST APIs • Auth • Dashboards  
+- Git • Deploy • Performance Optimization  
 
 ---
 
-## 📌 Atualmente focado em
+## 🌍 Objetivo
 
-- Projetos avançados com SvelteKit
-- UI sofisticada com Tailwind + animações
-- Construção de produtos web com padrão Apple-like
+Criar aplicações web que pareçam produtos de elite: rápidas, bonitas e bem estruturadas.
 
 ---
 
-## 📫 Contato
-
-📍 Brasil  
-💻 GitHub: [seu-usuario-aqui](https://github.com/drokerry)  
-✉️ Email: lucasfespindolaa@gmail.com  
-
+📫 Vamos construir algo juntos.
