@@ -2,7 +2,7 @@
 
 Construindo **sistemas web, landing pages e PWAs** de alta performance.
 
-Focado em **SvelteKit, TypeScript e TailwindCSS** — criando interfaces modernas, rápidas e com arquitetura escalável.
+Focado em **SvelteKit, TypeScript, TailwindCSS e Node.js** — desenvolvendo aplicações completas, do front ao backend, com arquitetura escalável.
 
 ---
 
@@ -10,15 +10,16 @@ Focado em **SvelteKit, TypeScript e TailwindCSS** — criando interfaces moderna
 
 SvelteKit • TypeScript • JavaScript  
 TailwindCSS • UI Systems • Animations  
-Node.js • REST APIs • Auth  
+Node.js • APIs • Auth • Backend  
 
 ---
 
 ## Foco
 
-- Aplicações web modernas  
+- Aplicações web completas (front + backend)  
 - Landing pages de alta conversão  
-- Arquitetura front-end escalável  
+- Arquitetura escalável e bem estruturada  
+- Integração com APIs e serviços  
 - UI/UX premium  
 
 ---
