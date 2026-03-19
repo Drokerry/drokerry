@@ -1,35 +1,34 @@
-# ⚡ Lucas Fernandes — Front-end Engineer
+# Lucas Fernandes
 
-Construindo experiências digitais modernas com **SvelteKit**, **TypeScript** e **TailwindCSS**.
+Construindo **sistemas web, landing pages e PWAs** de alta performance.
 
-Desenvolvo interfaces de alto padrão, focadas em performance, design sofisticado e arquitetura escalável.
-
----
-
-## 🚀 Expertise
-
-- Front-end moderno e componentizado  
-- Aplicações com SvelteKit e SSR  
-- UI premium com TailwindCSS  
-- Integração robusta com APIs  
-- Design responsivo e mobile-first  
-- Experiência de produto (UX/UI)
+Focado em **SvelteKit, TypeScript e TailwindCSS** — criando interfaces modernas, rápidas e com arquitetura escalável.
 
 ---
 
-## 🛠 Tecnologias principais
+## Stack
 
-- SvelteKit • TypeScript • JavaScript  
-- TailwindCSS • Animations • UI Systems  
-- REST APIs • Auth • Dashboards  
-- Git • Deploy • Performance Optimization  
-
----
-
-## 🌍 Objetivo
-
-Criar aplicações web que pareçam produtos de elite: rápidas, bonitas e bem estruturadas.
+SvelteKit • TypeScript • JavaScript  
+TailwindCSS • UI Systems • Animations  
+Node.js • REST APIs • Auth  
 
 ---
 
-📫 Vamos construir algo juntos.
+## Foco
+
+- Aplicações web modernas  
+- Landing pages de alta conversão  
+- Arquitetura front-end escalável  
+- UI/UX premium  
+
+---
+
+## Filosofia
+
+Simples. Rápido. Bem feito.
+
+---
+
+## Contato
+
+Aberto a projetos e parcerias.
