@@ -1,35 +1,3 @@
-# Lucas Fernandes
+Olá! Sou desenvolvedor web especializado em construir experiências digitais modernas, rápidas e escaláveis.
 
-Construindo **sistemas web, landing pages e PWAs** de alta performance.
-
-Focado em **SvelteKit, TypeScript, TailwindCSS e Node.js** — desenvolvendo aplicações completas, do front ao backend, com arquitetura escalável.
-
----
-
-## Stack
-
-SvelteKit • TypeScript • JavaScript  
-TailwindCSS • UI Systems • Animations  
-Node.js • APIs • Auth • Backend  
-
----
-
-## Foco
-
-- Aplicações web completas (front + backend)  
-- Landing pages de alta conversão  
-- Arquitetura escalável e bem estruturada  
-- Integração com APIs e serviços  
-- UI/UX premium  
-
----
-
-## Filosofia
-
-Simples. Rápido. Bem feito.
-
----
-
-## Contato
-
-Aberto a projetos e parcerias.
+Acesse meu site e saiba como trabalhar comigo: https://www.vork.com.br
